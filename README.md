@@ -68,6 +68,6 @@ Une classe qui utilise un objet de l’interface PersonRep par injection @Autowi
 - HelloWorldRestController.java et  PersonRestController.java  :
 Elles représentent les classes contrôleurs de l’application qui définissent les URI des vues avec la technique mapping REST 
 
--application.proprieties: C’est le fichier qui définit l’hibernate de JPA et url de l’application .
+- application.proprieties: C’est le fichier qui définit l’hibernate de JPA et url de l’application .
 
--pom.xml : le fichier où on définit les dépendances de l’application.
+- pom.xml : le fichier où on définit les dépendances de l’application.
